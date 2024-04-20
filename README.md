@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+![Screenshot 2024-04-21 012354](https://github.com/nimanthapriyasad/FitnessClub-FE/assets/119127611/ebfe1045-e0b1-4de3-8f42-3ae1a7def961)# Getting Started with Create React App
+
+
+![Screenshot 2024-04-21 012411](https://github.com/nimanthapriyasad/FitnessClub-FE/assets/119127611/f9b0f139-a492-409d-a714-9feb4d6d4bc6)
+
+![Screenshot 2024-04-21 012439](https://github.com/nimanthapriyasad/FitnessClub-FE/assets/119127611/8f76e4e8-eaea-4621-80ab-b585a24f6f91)
+
+![Screenshot 2024-04-21 012354](https://github.com/nimanthapriyasad/FitnessClub-FE/assets/119127611/fae3c1a7-f1e3-4191-b225-15ff0aeb097f)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
